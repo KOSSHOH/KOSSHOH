@@ -10,13 +10,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosshoh&color=brightgreen" alt="Shahboz Turonov"/> </p>
 
 - 🔭 I’m currently working on communication skills
-- 🌱 I’m currently learning Python & Docker more deeper
+- 🌱 I’m currently learning Flutter & Swift more deeper
 - 👯 I’m looking to collaborate on preparation for FAANG interviews
 - 🤔 I’m looking for help with English to improve my speaking skills
 - 💬 Ask me about coding, pool, football, music, ... (anything you want) 
 - 📫 How to reach me: shahboz.turonov98@gmail.com
 - 😄 Nicknames: kosshoh, shahbozturonov
-- ⚡ Fun fact: I am selfish )
+- ⚡ Fun fact: I am generous )
 - ✏️ Favorite quote: Don't judge my life without walking a mile in my shoes
 - 🎥 Favorite movie: Pirates of the Caribbean
 - ⚽️ Favorite team: Barcelona
