@@ -37,5 +37,13 @@
 
 <br/>
 
+### I love designing algorithms:
+
+[algo]: https://algo.ubtuit.uz/users/shahbozturonov
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" style="max-width:100%;">][algo]
+
+<br/>
+
 
 ### Happy Coding
