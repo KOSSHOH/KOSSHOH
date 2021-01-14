@@ -14,12 +14,12 @@
 - 👯 I’m looking to collaborate on preparation for FAANG interviews
 - 🤔 I’m looking for help with English to improve my speaking skills
 - 💬 Ask me about coding, pool, football, music, ... (anything you want) 
-- 📫 How to reach me: ozodbekkamolov@gmail.com
-- 😄 Nicknames: Ozzy, Kamoloff
+- 📫 How to reach me: shahboz.turonov98@gmail.com
+- 😄 Nicknames: kosshoh, shahbozturonov
 - ⚡ Fun fact: I am selfish )
 - ✏️ Favorite quote: Don't judge my life without walking a mile in my shoes
 - 🎥 Favorite movie: Pirates of the Caribbean
-- ⚽️ Favorite team: Real Madrid
+- ⚽️ Favorite team: Barcelona
 
 ### Me on social networks:
 
