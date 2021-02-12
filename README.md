@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I am generous )
 - ✏️ Favorite quote: Don't judge my life without walking a mile in my shoes
 - 🎥 Favorite movie: Pirates of the Caribbean
-- ⚽️ Favorite team: Barcelona
+- ⚽️ Favorite team: FC Barcelona
 
 ### Me on social networks:
 
