@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosshoh&color=brightgreen" alt="Shahboz Turonov"/> </p>
 
 - 🔭 I’m currently working on communication skills
-- 🌱 I’m currently learning Flutter & Swift more deeper
+- 🌱 I’m currently learning Go more deeper
 - 👯 I’m looking to collaborate on preparation for FAANG interviews
 - 🤔 I’m looking for help with English to improve my speaking skills
 - 💬 Ask me about coding, pool, football, music, ... (anything you want) 
