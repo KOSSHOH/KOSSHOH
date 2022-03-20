@@ -15,7 +15,6 @@
 - 🤔 I’m looking for help with English to improve my speaking skills
 - 💬 Ask me about coding, pool, football, music, ... (anything you want) 
 - 📫 How to reach me: shahboz.turonov98@gmail.com
-- ⚡ Fun fact: I am generous )
 - 🎥 Favorite movie: Pirates of the Caribbean
 - ⚽️ Favorite team: FC Barcelona
 
