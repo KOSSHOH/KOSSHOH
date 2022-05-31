@@ -1,6 +1,6 @@
 ### Hello World 👋👋👋
 
-### I am Shahboz Turonov and I am a Mobile Developer @ Oson Apteka LLC && Online Starup LLC
+### I am Shahboz Turonov and I am a Mobile Developer @ Oson Apteka LLC && Online StartUp LLC
 
 [website]: https://github.com/kosshoh
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosshoh&layout=compact&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
