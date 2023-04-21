@@ -37,7 +37,9 @@
 ### I love designing algorithms:
 
 [algo]: https://algo.ubtuit.uz/users/shahbozturonov
+[leetcode]: https://leetcode.com/ShahbozTuronov
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/KOSSHOH/al_quran/blob/master/assets/icons/leetcode.svg" style="max-width:100%;">][leetcode]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" style="max-width:100%;">][algo]
 
 <br/>
