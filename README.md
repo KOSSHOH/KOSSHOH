@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Go more deeper
 - 👯 I’m looking to collaborate on preparation for FAANG interviews
 - 🤔 I’m looking for help with English to improve my speaking skills
-- 💬 Ask me about coding, pool, football, music, ... (anything you want) 
+- 💬 Ask me about coding, football, music, ... (anything you want) 
 - 📫 How to reach me: shahboz.turonov98@gmail.com
 - 🎥 Favorite movie: Pirates of the Caribbean
 - ⚽️ Favorite team: FC Barcelona
