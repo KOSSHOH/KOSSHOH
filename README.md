@@ -1,4 +1,4 @@
-### Hello World 👋👋👋
+### Hello World 👋
 
 ### I am Shahboz Turonov and I am a Mobile Developer @ Exadot
 
