@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-### I am Shahboz Turonov and I am a Mobile Developer @ Exadot
+### I am Shahboz Turonov and I am a Mobile Developer @ UZINFOCOM
 
 - 🔭 I’m currently working on communication skills
 - 🌱 I’m currently learning Go more deeper
