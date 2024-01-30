@@ -11,6 +11,8 @@
 - 🎥 Favorite movie: Pirates of the Caribbean
 - ⚽️ Favorite team: FC Barcelona
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KOSSHOH&label=Profile%20views&color=0e75b6&style=flat" alt="KOSSHOH" /> </p>
+
 ### Me on social networks:
 
 [twitter]: https://twitter.com/Shahboz1606
@@ -37,5 +39,10 @@
 
 <br/>
 
-
 ### Happy Coding
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KOSSHOH&show_icons=true&locale=en&layout=compact" alt="KOSSHOH" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KOSSHOH&show_icons=true&locale=en" alt="KOSSHOH" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KOSSHOH&" alt="KOSSHOH" /></p>
