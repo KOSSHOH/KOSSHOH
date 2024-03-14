@@ -21,7 +21,7 @@
 [facebook]: https://www.facebook.com/shturonov
 [telegram]: https://t.me/shahbozturonov
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;">][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/KOSSHOH/ZGram/blob/master/assets/twitter.png" style="max-width:100%;">][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;">][facebook]
