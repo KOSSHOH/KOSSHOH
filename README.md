@@ -3,7 +3,7 @@
 ### I am Shahboz Turonov and I am a Mobile Developer @ UZINFOCOM
 
 - 🔭 I’m currently working on communication skills
-- 🌱 I’m currently learning Go more deeper
+- 🌱 I’m currently learning Unity more deeper
 - 👯 I’m looking to collaborate on preparation for FAANG interviews
 - 🤔 I’m looking for help with English to improve my speaking skills
 - 💬 Ask me about coding, football, music, ... (anything you want) 
