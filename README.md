@@ -15,7 +15,7 @@
 
 ### Me on social networks:
 
-[twitter]: https://twitter.com/Shahboz1606
+[twitter]: https://x.com/Shahboz1606
 [linkedin]: https://www.linkedin.com/in/shahboz-turonov-51803518a
 [instagram]: https://www.instagram.com/shahboz_turonov
 [facebook]: https://www.facebook.com/shturonov
