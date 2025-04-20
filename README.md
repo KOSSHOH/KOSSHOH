@@ -33,7 +33,7 @@
 ### 🧠 I Love Algorithms
 
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)][leetcode]
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)][algo]
+[![Algo](https://img.shields.io/badge/Algo-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white)][algo]
 
 ---
 
@@ -58,10 +58,10 @@
 
 ---
 
-[twitter]: https://x.com/Shahboz1606
-[linkedin]: https://www.linkedin.com/in/shahboz-turonov-51803518a
-[instagram]: https://www.instagram.com/shahbozturonov
-[facebook]: https://www.facebook.com/shturonov
-[telegram]: https://t.me/shahbozturonov
-[leetcode]: https://leetcode.com/ShahbozTuronov
-[algo]: https://algo.ubtuit.uz/users/shahbozturonov
+[twitter]: https://x.com/Shahboz1606  
+[linkedin]: https://www.linkedin.com/in/shahboz-turonov-51803518a  
+[instagram]: https://www.instagram.com/shahbozturonov  
+[facebook]: https://www.facebook.com/shturonov  
+[telegram]: https://t.me/shahbozturonov  
+[leetcode]: https://leetcode.com/ShahbozTuronov  
+[algo]: https://algo.ubtuit.uz/users/shahbozturonov  
