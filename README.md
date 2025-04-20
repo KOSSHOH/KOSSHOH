@@ -2,10 +2,10 @@
 
 ### I am Shahboz Turonov and I am a Mobile Developer @ Exadot
 
-- 🔭 I’m currently working on communication skills
-- 🌱 I’m currently learning Unity more deeper
-- 👯 I’m looking to collaborate on preparation for FAANG interviews
-- 🤔 I’m looking for help with English to improve my speaking skills
+- 🔭 I'm currently working on communication skills
+- 🌱 I'm currently learning Python more deeper
+- 👯 I'm looking to collaborate on preparation for FAANG interviews
+- 🤔 I'm looking for help with English to improve my speaking skills
 - 💬 Ask me about coding, football, music, ... (anything you want) 
 - 📫 How to reach me: shahboz.turonov98@gmail.com
 - 🎥 Favorite movie: Pirates of the Caribbean
