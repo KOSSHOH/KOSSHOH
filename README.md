@@ -59,7 +59,7 @@
 ---
 
 [twitter]: https://x.com/Shahboz1606  
-[linkedin]: https://www.linkedin.com/in/shahboz-turonov-51803518a  
+[linkedin]: https://www.linkedin.com/in/shahbozturonov
 [instagram]: https://www.instagram.com/shahbozturonov  
 [facebook]: https://www.facebook.com/shturonov  
 [telegram]: https://t.me/shahbozturonov  
