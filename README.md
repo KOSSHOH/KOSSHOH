@@ -18,6 +18,7 @@
 - 🎥 Favorite Movie: *Pirates of the Caribbean*
 - ⚽️ Favorite Team: *FC Barcelona*
 
+![](https://komarev.com/ghpvc/?username=KOSSHOH&style=flat&color=brightgreen)
 ---
 
 ### 🌐 Connect with Me
@@ -37,26 +38,25 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOSSHOH&theme=github_dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KOSSHOH&theme=github_dark)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOSSHOH&theme=github_dark&utcOffset=8)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KOSSHOH&theme=github_dark)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KOSSHOH&theme=github_dark)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KOSSHOH&show_icons=true&locale=en" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KOSSHOH&layout=compact" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KOSSHOH&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KOSSHOH" />
-</p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KOSSHOH&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/KOSSHOH/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KOSSHOH&label=Profile%20Views&color=0e75b6&style=flat" alt="KOSSHOH profile views"/>
-</p>
 
 ---
 
 ### ☕ Happy Coding!
 
----
 
 [twitter]: https://x.com/shahbozturonov  
 [linkedin]: https://www.linkedin.com/in/shahbozturonov
