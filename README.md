@@ -41,14 +41,13 @@
 
 ### 📊 GitHub Stats
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOSSHOH&theme=github_dark)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KOSSHOH&theme=github_dark)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOSSHOH&theme=github_dark&utcOffset=5)
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KOSSHOH&theme=github_dark)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KOSSHOH&theme=github_dark)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KOSSHOH&theme=github_dark" />
 </p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOSSHOH&theme=github_dark" />
+</p>
+
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KOSSHOH&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/KOSSHOH/github-readme-activity-graph)
 
